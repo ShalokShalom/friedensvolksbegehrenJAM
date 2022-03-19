@@ -1,8 +1,8 @@
-# Jamstack
+# Friedensvolksbegehren
 
-This is the repo for https://jamstack.org
+This is the repo for friedensvolksbegehren.jetzt 
 
-An entry-point for learning about this architectural model. A place to learn what Jamstack is, for sharing tools, tips, examples and articles. This is also a place to find a local community meetup, or to seek support in starting one of your own.
+[![Netlify Status](https://api.netlify.com/api/v1/badges/532dfd86-5748-4d01-998d-2b13b84c2fbd/deploy-status)](https://app.netlify.com/sites/lucid-poitras-085fa1/deploys)
 
 
 ## Contributing resources
