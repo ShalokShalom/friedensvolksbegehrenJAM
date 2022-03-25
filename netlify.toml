@@ -19,6 +19,11 @@
   from = "/discord"
   to = "https://discord.gg/jamstack"
   status = 302
+  
+[[redirects]]
+  from = "/was-ist-ein-volksbegehren"
+  to = "https://de.wikipedia.org/wiki/Volksbegehren_(%C3%96sterreich)"
+  status = 302
 
 [[redirects]]
   from = "/energie"
