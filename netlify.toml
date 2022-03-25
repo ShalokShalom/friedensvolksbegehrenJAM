@@ -21,7 +21,7 @@
   status = 302
 
 [[redirects]]
-  from = "/women-of-jamstack/"
+  from = "/energie"
   to = "https://womenofjamstack.com"
   status = 302
 
